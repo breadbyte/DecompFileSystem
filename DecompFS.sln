@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompFS", "DecompFS\DecompFS.csproj", "{C7ADD20A-7F68-49A5-8350-F79F811C2630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompFSTest", "DecompFSTest\DecompFSTest.csproj", "{B35D2975-65E3-4C79-9027-B3B9EFC5D465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7ADD20A-7F68-49A5-8350-F79F811C2630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ADD20A-7F68-49A5-8350-F79F811C2630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ADD20A-7F68-49A5-8350-F79F811C2630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ADD20A-7F68-49A5-8350-F79F811C2630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35D2975-65E3-4C79-9027-B3B9EFC5D465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35D2975-65E3-4C79-9027-B3B9EFC5D465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35D2975-65E3-4C79-9027-B3B9EFC5D465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35D2975-65E3-4C79-9027-B3B9EFC5D465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
